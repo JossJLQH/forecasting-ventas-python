@@ -28,5 +28,5 @@ Sigue estos pasos para clonar y ejecutar este proyecto en tu entorno local:
 
 1. **Clona este repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/forecasting-ventas-python.git](https://github.com/tu-usuario/forecasting-ventas-python.git)
+   git clone [https://github.com/tu-usuario/forecasting-ventas-python.git](https://github.com/JossJLQH/forecasting-ventas-python.git)
    cd forecasting-ventas-python
